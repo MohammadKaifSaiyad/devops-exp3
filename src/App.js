@@ -1,10 +1,16 @@
 import './App.css';
+import Footer from './Footer';
+import Navbar from './Navbar';
 
 function App() {
   return (
-    <div>
-      Devops Lab 2
-    </div>
+    <>
+      <Navbar/>
+      <div>
+        Devops Lab 2
+      </div>
+      <Footer/>
+    </>
   );
 }
 
