@@ -1,10 +1,14 @@
 import './App.css';
+import SEO from './SEO';
 
 function App() {
   return (
-    <div>
-      Devops Lab 2
-    </div>
+    <>
+      <SEO/>
+      <div>
+        Devops Lab 2
+      </div>
+    </>
   );
 }
 
