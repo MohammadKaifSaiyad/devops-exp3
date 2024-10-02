@@ -9,7 +9,7 @@ function App() {
       <SEO/>
       <Navbar/>
       <div>
-        Devops Lab 2
+        Devops Lab 3
       </div>
       <Footer/>
     </>
